@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f7fa;
+}
+
+h1 {
+    color: #343a40;
+    font-weight: 300;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.alert {
+    margin-top: 20px;
+}
